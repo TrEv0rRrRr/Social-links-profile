@@ -1,0 +1,40 @@
+header {
+  text-align: center;
+}
+
+img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.info {
+  margin: 15px 0;
+}
+
+span {
+  display: block;
+}
+
+.name,
+a,
+.country {
+  font-weight: var(--w-600);
+}
+
+.name {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.country {
+  font-size: 11.7px;
+  color: var(--green);
+  margin-bottom: 25px;
+}
+
+.phrase {
+  font-weight: var(--w-400);
+  font-size: 11px;
+  padding: 0 18px 5px;
+}
