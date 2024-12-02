@@ -72,7 +72,7 @@ li {
 
 ### Continued development
 
-I thought that I'd use grid for the modeling, but I didn't see it necessary. So I used flex.
+I thought that I'd use grid for the modeling, but I didn't see it necessary. So I used flex instead.
 
 ## Author
 
